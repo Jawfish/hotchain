@@ -3,6 +3,8 @@
 - https://pkg.go.dev/maps@master
 - https://pkg.go.dev/cmp@master
 
+Also see the proposal for range-over-function iterators: https://go.dev/wiki/RangefuncExperiment
+
 ---
 
 hotchain is a Go package that offers functional utilities for slices, allowing for a more declarative approach to data manipulation.
