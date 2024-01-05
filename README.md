@@ -1,3 +1,10 @@
+**Archived** because most of this is no longer necessary as of Go 1.21: 
+- https://pkg.go.dev/slices@master
+- https://pkg.go.dev/maps@master
+- https://pkg.go.dev/cmp@master
+
+---
+
 hotchain is a Go package that offers functional utilities for slices, allowing for a more declarative approach to data manipulation.
 
 ## Features
